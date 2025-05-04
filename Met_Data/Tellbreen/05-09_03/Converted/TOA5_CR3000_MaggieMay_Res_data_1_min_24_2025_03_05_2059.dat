@@ -1,0 +1,6 @@
+"TOA5","1481","CR3000","1481","CR3000.Std.32.06","CPU:AWS_MaggieMay_no_sonic_v3.CR3","13840","Res_data_1_min"
+"TIMESTAMP","RECORD","BattV","temperature_1","temperature_2","rel_humidity_1","rel_humidity_2","wind_speed_1","wind_speed_2","gust_speed_1","gust_speed_2","wind_direction_1","wind_direction_2","air_pressure","SWup","SWdown","LWup","LWdown","CNR1_T_degC","ground_temperature"
+"TS","RN","Volts","degC","degC","%","%","m/s","m/s","m/s","m/s","deg","deg","hPa","W/m^2","W/m^2","W/m^2","W/m^2","degC","degC"
+"","","Min","Avg","Avg","Smp","Smp","Avg","Avg","Max","Max","Smp","Smp","Avg","Avg","Avg","Avg","Avg","Avg","Avg"
+"2025-03-05 20:59:00",6261,12.2,-10.12,-10.18,84.4,84,4.857,4.828,5.972,6.076,344.9,346.2,980.8775,0.038,-0.167,271.3,268.2,-9.88,-9.65
+"2025-03-05 21:00:00",6262,12.2,-10.09,-10.15,84.6,84.4,2.938,2.922,4.891,4.508,344.9,329.6,980.8559,0.11,-0.076,271.4,268.7,-9.87,-9.65
